@@ -2,6 +2,7 @@
 /**
  * 电商收付通 相关接口封装
  * @author haoyongkai
+ * @weixin hyk585858
  * @time 2020-03-17
  * 开发文档 参考 https://pay.weixin.qq.com/wiki/doc/apiv3/wxpay/pages/ecommerce.shtml
  * 
